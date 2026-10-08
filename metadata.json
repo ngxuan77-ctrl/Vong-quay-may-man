@@ -1,0 +1,6 @@
+{
+  "name": "Vòng Quay May Mắn - Gọi Tên Lớp Học",
+  "description": "Công cụ vòng quay may mắn gọi tên học sinh ngẫu nhiên, sinh động và công bằng dành cho giáo viên và lớp học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
